@@ -1,0 +1,6 @@
+# Build output
+medal-catcher
+medal-catcher.exe
+
+# Downloaded medals (output data, not source)
+medalhas/
