@@ -19,7 +19,7 @@ Descobre automaticamente e baixa todas as medalhas disponíveis na CDN do Gamers
 
 | #4 | #68 | #215 | #447 | #1302 | #1415 | #1503 | #1545 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="medalhas/medal_4.png" width="72"> | <img src="medalhas/medal_68.png" width="72"> | <img src="medalhas/medal_215.png" width="72"> | <img src="medalhas/medal_447.png" width="72"> | <img src="medalhas/medal_1302.png" width="72"> | <img src="medalhas/medal_1415.png" width="72"> | <img src="medalhas/medal_1503.png" width="72"> | <img src="medalhas/medal_1545.png" width="72"> |
+| <img src="samples/medal_4.png" width="72"> | <img src="samples/medal_68.png" width="72"> | <img src="samples/medal_215.png" width="72"> | <img src="samples/medal_447.png" width="72"> | <img src="samples/medal_1302.png" width="72"> | <img src="samples/medal_1415.png" width="72"> | <img src="samples/medal_1503.png" width="72"> | <img src="samples/medal_1545.png" width="72"> |
 
 1 481 medals captured · IDs 0 – 1550
 
